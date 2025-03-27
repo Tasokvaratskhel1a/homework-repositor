@@ -1,3 +1,4 @@
+
 document.getElementById("loadPosts").addEventListener("click", function() {
     const postsData = [
         {
